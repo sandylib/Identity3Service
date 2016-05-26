@@ -1,0 +1,5 @@
+C:\Samples\oauth2-openid-connect-angular-aspdotnet\8-oauth2-openid-exercise-files\end\TripGallery\TripGallery.DTO\bin\Debug\TripGallery.DTO.dll
+C:\Samples\oauth2-openid-connect-angular-aspdotnet\8-oauth2-openid-exercise-files\end\TripGallery\TripGallery.DTO\bin\Debug\TripGallery.DTO.pdb
+C:\Samples\oauth2-openid-connect-angular-aspdotnet\8-oauth2-openid-exercise-files\end\TripGallery\TripGallery.DTO\obj\Debug\TripGallery.DTO.csprojResolveAssemblyReference.cache
+C:\Samples\oauth2-openid-connect-angular-aspdotnet\8-oauth2-openid-exercise-files\end\TripGallery\TripGallery.DTO\obj\Debug\TripGallery.DTO.dll
+C:\Samples\oauth2-openid-connect-angular-aspdotnet\8-oauth2-openid-exercise-files\end\TripGallery\TripGallery.DTO\obj\Debug\TripGallery.DTO.pdb

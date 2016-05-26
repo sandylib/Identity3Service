@@ -1,0 +1,16 @@
+C:\Samples\oauth2-openid-connect-angular-aspdotnet\8-oauth2-openid-exercise-files\end\TripGallery\TripCompany.WSFederationServer\bin\TripCompany.WSFederationServer.dll.config
+C:\Samples\oauth2-openid-connect-angular-aspdotnet\8-oauth2-openid-exercise-files\end\TripGallery\TripCompany.WSFederationServer\bin\TripCompany.WSFederationServer.dll
+C:\Samples\oauth2-openid-connect-angular-aspdotnet\8-oauth2-openid-exercise-files\end\TripGallery\TripCompany.WSFederationServer\bin\TripCompany.WSFederationServer.pdb
+C:\Samples\oauth2-openid-connect-angular-aspdotnet\8-oauth2-openid-exercise-files\end\TripGallery\TripCompany.WSFederationServer\bin\IdentityServer.WindowsAuthentication.dll
+C:\Samples\oauth2-openid-connect-angular-aspdotnet\8-oauth2-openid-exercise-files\end\TripGallery\TripCompany.WSFederationServer\bin\Microsoft.Owin.dll
+C:\Samples\oauth2-openid-connect-angular-aspdotnet\8-oauth2-openid-exercise-files\end\TripGallery\TripCompany.WSFederationServer\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Samples\oauth2-openid-connect-angular-aspdotnet\8-oauth2-openid-exercise-files\end\TripGallery\TripCompany.WSFederationServer\bin\Owin.dll
+C:\Samples\oauth2-openid-connect-angular-aspdotnet\8-oauth2-openid-exercise-files\end\TripGallery\TripCompany.WSFederationServer\bin\TripGallery.Constants.dll
+C:\Samples\oauth2-openid-connect-angular-aspdotnet\8-oauth2-openid-exercise-files\end\TripGallery\TripCompany.WSFederationServer\bin\TripGallery.Constants.pdb
+C:\Samples\oauth2-openid-connect-angular-aspdotnet\8-oauth2-openid-exercise-files\end\TripGallery\TripCompany.WSFederationServer\bin\IdentityServer.WindowsAuthentication.pdb
+C:\Samples\oauth2-openid-connect-angular-aspdotnet\8-oauth2-openid-exercise-files\end\TripGallery\TripCompany.WSFederationServer\bin\IdentityServer.WindowsAuthentication.xml
+C:\Samples\oauth2-openid-connect-angular-aspdotnet\8-oauth2-openid-exercise-files\end\TripGallery\TripCompany.WSFederationServer\bin\Microsoft.Owin.xml
+C:\Samples\oauth2-openid-connect-angular-aspdotnet\8-oauth2-openid-exercise-files\end\TripGallery\TripCompany.WSFederationServer\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Samples\oauth2-openid-connect-angular-aspdotnet\8-oauth2-openid-exercise-files\end\TripGallery\TripCompany.WSFederationServer\obj\Debug\TripCompany.WSFederationServer.csprojResolveAssemblyReference.cache
+C:\Samples\oauth2-openid-connect-angular-aspdotnet\8-oauth2-openid-exercise-files\end\TripGallery\TripCompany.WSFederationServer\obj\Debug\TripCompany.WSFederationServer.dll
+C:\Samples\oauth2-openid-connect-angular-aspdotnet\8-oauth2-openid-exercise-files\end\TripGallery\TripCompany.WSFederationServer\obj\Debug\TripCompany.WSFederationServer.pdb

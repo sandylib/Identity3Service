@@ -1,0 +1,9 @@
+C:\Samples\oauth2-openid-connect-angular-aspdotnet\8-oauth2-openid-exercise-files\end\TripGallery\TripGallery.Repository\bin\Debug\TripGallery.Repository.dll
+C:\Samples\oauth2-openid-connect-angular-aspdotnet\8-oauth2-openid-exercise-files\end\TripGallery\TripGallery.Repository\bin\Debug\TripGallery.Repository.pdb
+C:\Samples\oauth2-openid-connect-angular-aspdotnet\8-oauth2-openid-exercise-files\end\TripGallery\TripGallery.Repository\bin\Debug\Microsoft.Owin.FileSystems.dll
+C:\Samples\oauth2-openid-connect-angular-aspdotnet\8-oauth2-openid-exercise-files\end\TripGallery\TripGallery.Repository\bin\Debug\Newtonsoft.Json.dll
+C:\Samples\oauth2-openid-connect-angular-aspdotnet\8-oauth2-openid-exercise-files\end\TripGallery\TripGallery.Repository\bin\Debug\Microsoft.Owin.FileSystems.xml
+C:\Samples\oauth2-openid-connect-angular-aspdotnet\8-oauth2-openid-exercise-files\end\TripGallery\TripGallery.Repository\bin\Debug\Newtonsoft.Json.xml
+C:\Samples\oauth2-openid-connect-angular-aspdotnet\8-oauth2-openid-exercise-files\end\TripGallery\TripGallery.Repository\obj\Debug\TripGallery.Repository.csprojResolveAssemblyReference.cache
+C:\Samples\oauth2-openid-connect-angular-aspdotnet\8-oauth2-openid-exercise-files\end\TripGallery\TripGallery.Repository\obj\Debug\TripGallery.Repository.dll
+C:\Samples\oauth2-openid-connect-angular-aspdotnet\8-oauth2-openid-exercise-files\end\TripGallery\TripGallery.Repository\obj\Debug\TripGallery.Repository.pdb

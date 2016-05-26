@@ -1,0 +1,5 @@
+C:\Samples\oauth2-openid-connect-angular-aspdotnet\8-oauth2-openid-exercise-files\end\TripGallery\TripGallery.Constants\bin\Debug\TripGallery.Constants.dll
+C:\Samples\oauth2-openid-connect-angular-aspdotnet\8-oauth2-openid-exercise-files\end\TripGallery\TripGallery.Constants\bin\Debug\TripGallery.Constants.pdb
+C:\Samples\oauth2-openid-connect-angular-aspdotnet\8-oauth2-openid-exercise-files\end\TripGallery\TripGallery.Constants\obj\Debug\TripGallery.Constants.csprojResolveAssemblyReference.cache
+C:\Samples\oauth2-openid-connect-angular-aspdotnet\8-oauth2-openid-exercise-files\end\TripGallery\TripGallery.Constants\obj\Debug\TripGallery.Constants.dll
+C:\Samples\oauth2-openid-connect-angular-aspdotnet\8-oauth2-openid-exercise-files\end\TripGallery\TripGallery.Constants\obj\Debug\TripGallery.Constants.pdb
